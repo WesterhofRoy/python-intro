@@ -1,51 +1,58 @@
-# Intro to Python Programming for Data Analysis
+# Session 1: Introduction to Python Basics
 
-Welcome to the Python Programming for Data Analysis repository! This repository contains teaching materials and resources for introducing programming concepts using Python, with a focus on data analysis and processing.
+Welcome to the first session of Python Programming for Data Analysis! This session serves as an introduction to Python, covering fundamental programming concepts that will lay the groundwork for your journey into data analysis.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Sessions](#sessions)
+- [Topics Covered](#topics-covered)
 - [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+- [Usage](#usage)
+- [Additional Resources](#additional-resources)
 
-## Introduction
+## Topics Covered
 
-This repository is designed to help beginners learn Python programming in the context of data analysis. Whether you're new to programming or looking to apply your skills to analyze and process data, these materials aim to provide a structured and hands-on learning experience.
+In this session, we will cover the following key topics:
 
-## Sessions
-
-The teaching materials are organized into branches, with each branch corresponding to a specific session. Each session builds upon the previous one, gradually introducing new concepts and reinforcing fundamental programming skills.
-
-- [Session 1](https://github.com/WesterhofRoy/python-intro/tree/session-1): Introduction to Python, variables, and basic data types.
-- [Session 2](#): Control flow, functions, and basic data structures.
-- [Session 3](#): Introduction to libraries (NumPy, Pandas) for data manipulation.
-- ...
-
-Feel free to explore the branches to access the teaching materials for each session.
+1. Introduction to Python
+2. Variables and Data Types
+3. Basic Operations
 
 ## Getting Started
 
-To get started with the materials, follow these steps:
+To get started with this session, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone git@github.com:WesterhofRoy/python-intro.git
+   git clone https://github.com/your-username/python-data-analysis.git
    ```
 
-2. Navigate to the main branch.
+2. Navigate to the repository.
    ```bash
-   cd python-intro
+   cd python-data-analysis
    ```
 
-3. Explore the sessions by checking out the relevant branches.
+3. Check out the branch for Session 1.
    ```bash
    git checkout session-1
    ```
 
-4. Open the teaching materials and follow the instructions for each session.
+4. Open the teaching materials for Session 1 and follow the instructions provided.
 
-## License
+## Usage
 
-This project is licensed under the [MIT License](LICENSE).
+The teaching materials for this session include:
+- Lecture notes
+- Code examples
+- Hands-on exercises
+
+Feel free to explore, modify, and experiment with the code. The goal is to gain a solid understanding of Python basics and prepare for future sessions.
+
+## Additional Resources
+
+For additional learning and exploration, consider checking out the following resources:
+
+- [Official Python Documentation](https://docs.python.org/3/)
+- [W3Schools Python Tutorial](https://www.w3schools.com/python/)
+- [Real Python](https://realpython.com/)
+
+Happy coding, and enjoy your introduction to Python!
