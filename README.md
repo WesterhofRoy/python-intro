@@ -13,9 +13,12 @@ Welcome to the first session of Python Programming for Data Analysis! This sessi
 
 In this session, we will cover the following key topics:
 
-1. Introduction to Python
-2. Variables and Data Types
-3. Basic Operations
+1. Introduction to Python and variables
+2. Functions
+3. Conditions
+4. loops
+5. lists
+6. a small program
 
 ## Getting Started
 
