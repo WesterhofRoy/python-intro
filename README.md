@@ -18,9 +18,9 @@ This repository is designed to help beginners learn Python programming in the co
 
 The teaching materials are organized into branches, with each branch corresponding to a specific session. Each session builds upon the previous one, gradually introducing new concepts and reinforcing fundamental programming skills.
 
-- [Session 1](link-to-session-1-branch): Introduction to Python, variables, and basic data types.
-- [Session 2](link-to-session-2-branch): Control flow, functions, and basic data structures.
-- [Session 3](link-to-session-3-branch): Introduction to libraries (NumPy, Pandas) for data manipulation.
+- [Session 1](https://github.com/WesterhofRoy/python-intro/tree/session-1): Introduction to Python, variables, and basic data types.
+- [Session 2](#): Control flow, functions, and basic data structures.
+- [Session 3](#): Introduction to libraries (NumPy, Pandas) for data manipulation.
 - ...
 
 Feel free to explore the branches to access the teaching materials for each session.
@@ -31,12 +31,12 @@ To get started with the materials, follow these steps:
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/python-data-analysis.git
+   git clone git@github.com:WesterhofRoy/python-intro.git
    ```
 
 2. Navigate to the main branch.
    ```bash
-   cd python-data-analysis
+   cd python-intro
    ```
 
 3. Explore the sessions by checking out the relevant branches.
