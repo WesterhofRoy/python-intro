@@ -6,8 +6,8 @@ We will also do some more calculations on the total cost, like adding tax and di
 """
 
 # Define a function to get user input
-def get_user_input(prompt):
-    return float(input(prompt))
+def get_user_input(a):
+    return float(input(a))
 
 # Define a function to calculate total cost
 def calculate_total_cost(number_of_apples, cost_per_apple):
